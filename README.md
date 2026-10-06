@@ -54,7 +54,7 @@ El sistema está compuesto por más de 20 módulos interconectados para cubrir t
 <div align="center">
   <img src="docs/assets/screenshots/3.png" width="30%" alt="Mapa en Tiempo Real" />
   <img src="docs/assets/screenshots/4.png" width="30%" alt="Logística" />
-  <img src="docs/assets/screenshots/5.png" width="30%" alt="Gestión de Flota" />
+  <img src="docs/assets/screenshots/5.png" width="30%" alt="Comunicaciones" />
 </div>
 
 ---
