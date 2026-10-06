@@ -57,6 +57,11 @@ El sistema está compuesto por más de 20 módulos interconectados para cubrir t
   <img src="docs/assets/screenshots/5.png" width="30%" alt="Comunicaciones" />
 </div>
 
+<div align="center">
+  <img src="docs/assets/screenshots/6.png" width="45%" alt="Perfil del Voluntario" />
+  <img src="docs/assets/screenshots/7.png" width="45%" alt="Estadísticas y Análisis" />
+</div>
+
 ---
 
 ## 🏗️ Arquitectura de Software
