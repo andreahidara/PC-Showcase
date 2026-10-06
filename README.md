@@ -12,6 +12,9 @@
 
 Desarrollada como una **Progressive Web App (PWA)**, ofrece la fiabilidad de una aplicación nativa en dispositivos móviles durante intervenciones de campo, garantizando conectividad en tiempo real (vía WebSockets) y telemetría de activos (GPS).
 
+> 🧡 **Proyecto Voluntario (Pro Bono)**
+> Este sistema ha sido desarrollado, diseñado y donado de forma completamente altruista y gratuita. Dado que los voluntarios de Protección Civil dedican su tiempo y esfuerzo sin recibir ninguna remuneración económica, este proyecto nace con el único propósito de dotarles de herramientas tecnológicas profesionales de alto nivel, sin coste alguno, para que puedan coordinarse mejor y seguir velando por la seguridad ciudadana en las mejores condiciones.
+
 ---
 
 ## 📋 Índice
