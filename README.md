@@ -211,6 +211,6 @@ ws.on('message', async (message) => {
 
 ## 👤 Autor & Contacto
 
-Desarrollado y diseñado por **Andrea Hidara**.
+Desarrollado y diseñado por [**Andrea Hidara**](https://github.com/andreahidara).
 
 Este repositorio es una demostración técnica de la arquitectura de la aplicación de Protección Civil. El código fuente original es privado.
