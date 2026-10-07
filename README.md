@@ -1,12 +1,18 @@
-# 🛡️ Protección Civil — Sistema Integral de Gestión Operativa
+<div align="center">
+  <img src="docs/assets/app-icon.jpg" width="130" alt="Protección Civil App Icon" style="border-radius: 28px;" />
+  <h1>🛡️ Protección Civil</h1>
+  <h3>Sistema Integral de Gestión Operativa</h3>
+
+  [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+  [![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![WebSocket](https://img.shields.io/badge/Real--Time-WebSockets-FF9900?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+  [![License](https://img.shields.io/badge/License-Proprietary-FF0055?style=for-the-badge)](LICENSE)
+</div>
+
+<br />
 
 ![Banner](docs/assets/pc-banner.jpg)
-
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![WebSocket](https://img.shields.io/badge/Real--Time-WebSockets-FF9900?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-[![License](https://img.shields.io/badge/License-Proprietary-FF0055?style=for-the-badge)]()
 
 **Protección Civil** es una plataforma operativa privada integral, diseñada específicamente para Agrupaciones de Voluntarios de Protección Civil. Su objetivo es centralizar la gestión de emergencias, comunicaciones en tiempo real, logística, y recursos humanos en un único entorno securizado.
 
